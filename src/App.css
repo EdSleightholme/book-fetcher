@@ -22,6 +22,6 @@
 .TableHeaderCell{
  padding:1rem;
  font-size: 2rem;
- display: "table-cell";
+ display: table-cell;
  width:10rem;
 }
